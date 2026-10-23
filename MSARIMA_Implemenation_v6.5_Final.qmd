@@ -1,7 +1,7 @@
 ---
-title: "MS"
-author: "SSN"
-format: pdf
+title: "mSARIMA Vs Benchmark models"
+author: "Shilpashree Nandakumar"
+format: html
 ---
 
 ```{r}
